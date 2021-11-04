@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Adventure of my lifetime
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditclear)](https://github.com/anuraghazra/github-readme-stats)
 ##### Blog：www.ditclear.cn
 
 ##### 掘金：https://juejjuejin.cn/user/817692379716775
@@ -13,7 +13,6 @@
 ##### 微信公众号🔍：ditlcar
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditclear)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ditclear/ditclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
