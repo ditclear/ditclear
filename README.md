@@ -8,7 +8,7 @@
 
 ##### 简书：https://www.jianshu.com/u/117f1cf0c556
 
-##### 小专栏：https://links.jianshu.com/go?to=https%3A%2F%2Fxiaozhuanlan.com%2Fditclear%3Frel%3D2493325177
+##### 小专栏：[使用Kotlin构建MVVM应用程序](https://xiaozhuanlan.com/ditclear?rel=2493325177)
 
 ##### 微信公众号🔍：ditlcar
 
